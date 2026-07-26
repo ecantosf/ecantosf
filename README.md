@@ -68,6 +68,7 @@ Driven by a vision of technology with a positive social impact, I am passionate 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="80"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="80"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="80"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="80"/></td>
@@ -76,6 +77,7 @@ Driven by a vision of technology with a positive social impact, I am passionate 
     <td align="center"><strong>Docker</strong></td>
     <td align="center"><strong>Git</strong></td>
     <td align="center"><strong>GitHub</strong></td>
+    <td align="center"><strong>GitLab</strong></td>
     <td align="center"><strong>Postman</strong></td>
     <td align="center"><strong>Maven</strong></td>
     <td align="center"><strong>Gradle</strong></td>
