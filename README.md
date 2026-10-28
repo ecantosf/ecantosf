@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eduard Cantos </h1>
 
 <h3 align="center">
-Junior Back-End Developer | Java & Spring Boot
+Back-End Developer | Java & Spring Boot
 </h3>
 
 <p align="center">
